@@ -1,2 +1,2 @@
 # KDL
-Kwait Diagnostic Laboratory
+Kuwait Diagnostic Laboratory
